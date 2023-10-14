@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.kamzhanyue.ui-utility": {
+      "version": "https://github.com/kam-zhan-yue/ui-utility.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "419598cf6d33de4760f83a6b5d10d72fca0b0db4"
+    },
     "com.unity.collab-proxy": {
       "version": "2.0.7",
       "depth": 0,
