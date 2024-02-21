@@ -1,20 +1,20 @@
 {
   "dependencies": {
-    "com.kamzhanyue.ui-utility": {
-      "version": "https://github.com/kam-zhan-yue/ui-utility.git",
+    "com.kamzhanyue.ui-delivery": {
+      "version": "https://github.com/kam-zhan-yue/ui-delivery.git",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.kamzhanyue.unity-utility": "0.1.0"
+        "com.kamzhanyue.utility-delivery": "0.1.0"
       },
-      "hash": "66bc4d8732b209d651200a6f712c369fb8330ef1"
+      "hash": "37fb8b05cb1c3215a92daef382559fa6627111af"
     },
-    "com.kamzhanyue.unity-utility": {
-      "version": "https://github.com/kam-zhan-yue/unity-utility.git",
+    "com.kamzhanyue.utility-delivery": {
+      "version": "https://github.com/kam-zhan-yue/utility-delivery.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "e6f8efd1f9d5a1212949f050895c3c36263958c8"
+      "hash": "7ccc1d32f94f83f4959b22ade603eff8c5363233"
     },
     "com.unity.collab-proxy": {
       "version": "2.0.7",
